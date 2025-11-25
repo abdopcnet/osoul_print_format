@@ -1,8 +1,5 @@
 ### Osoul Print Format
 
-![Version](https://img.shields.io/badge/version-25.11.2025-blue)
-
-
 Osoul Print Format
 
 ### Installation
