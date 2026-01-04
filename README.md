@@ -1,6 +1,6 @@
 ### Osoul Print Format
 
-![Version](https://img.shields.io/badge/version-25.11.2025-blue)
+![Version](https://img.shields.io/badge/version-4.1.2026-blue)
 
 
 Osoul Print Format
